@@ -50,14 +50,5 @@ This is a simple command-line implementation of the classic game Rock-Paper-Scis
 ## Getting Started
 
 - **Dependencies**: This program does not have any external dependencies. It's a self-contained C++ program.
-- **Usage**: Feel free to use, modify, or enhance this program. It's a fun way to explore basic C++ programming and enjoy a classic game.
-
-## Contributing
-
-Contributions and improvements are welcome! If you'd like to add features, improve the user interface, fix any issues, or suggest enhancements, please feel free to submit a pull request. Let's make this game even more enjoyable together!
-
-## License
-
-This project is open-source and available under the MIT License. You are free to use, distribute, and modify this code in accordance with the license terms.
 
 Enjoy playing Rock-Paper-Scissors and happy coding!
