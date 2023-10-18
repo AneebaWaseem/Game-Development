@@ -40,14 +40,3 @@ A simple implementation of the classic game of Tic-Tac-Toe in C. This project is
 
 This program does not have any external dependencies. It's a self-contained C program.
 
-## Usage
-
-Feel free to use, modify, or enhance this program. It's a great starting point for learning C programming or as a simple example of a text-based game.
-
-## License
-
-This project is open-source and available under the MIT License. You are free to use and distribute this code.
-
-## Contribute
-
-Contributions and improvements are welcome! If you'd like to enhance the game, add features, or fix bugs, please submit a pull request.
